@@ -1,0 +1,19 @@
+= Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.org[mark@thehecklers.org]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This multi-repo accompanies my session titled *"Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems"* and includes all code written within the session and potentially more...star+watch this repo for updates!
+
+== Related repository
+
+https://github.com/mkheck/LocalMessaging[Scripts I use to create, configure, & run RabbitMQ & Apache Kafka locally in support of this session]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/building-reactive-pipelines["Building Reactive Pipelines: How to go from scalable apps to (ridiculously) scalable systems" presentation]
