@@ -7,7 +7,7 @@ import java.time.Instant;
 
 @Data
 @AllArgsConstructor
-class Subscriber {
+public class Subscriber {
     private String id, firstName, lastName;
     private Instant subscribeDate;
 }
