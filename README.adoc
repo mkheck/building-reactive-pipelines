@@ -3,7 +3,7 @@
 == Maintainer
 
 * Mark Heckler
-* mailto:mark@thehecklers.org[mark@thehecklers.org]
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
 * https://twitter.com/mkheck[@mkheck on Twitter]
 
 == Purpose
